@@ -1,0 +1,15 @@
+Demo=1
+DOT_size_element_1=2
+DOT_size_element_2=2
+DOT_size_element_3=4
+DOT_size_element_4=4
+ROI_i=100
+ROI_j=150
+ROI_w=500
+ROI_h=200
+Fil_1=5
+Fil_2=1
+Egal_1=0
+Egal_2=0
+Size_min=400
+Size_max=4000

@@ -1,0 +1,54 @@
+C:\Users\ehrhardt\Desktop\Projet_Vision\OCR_Pneus\IHM\bin\Debug\IHM.exe.config
+C:\Users\ehrhardt\Desktop\Projet_Vision\OCR_Pneus\IHM\bin\Debug\IHM.exe
+C:\Users\ehrhardt\Desktop\Projet_Vision\OCR_Pneus\IHM\bin\Debug\IHM.pdb
+C:\Users\ehrhardt\Desktop\Projet_Vision\OCR_Pneus\IHM\obj\Debug\IHM.Form1.resources
+C:\Users\ehrhardt\Desktop\Projet_Vision\OCR_Pneus\IHM\obj\Debug\IHM.Properties.Resources.resources
+C:\Users\ehrhardt\Desktop\Projet_Vision\OCR_Pneus\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache
+C:\Users\ehrhardt\Desktop\Projet_Vision\OCR_Pneus\IHM\obj\Debug\IHM.exe
+C:\Users\ehrhardt\Desktop\Projet_Vision\OCR_Pneus\IHM\obj\Debug\IHM.pdb
+F:\Studies\TSE 3\Projet_Vision\OCR_Pneus\IHM\bin\Debug\IHM.exe.config
+F:\Studies\TSE 3\Projet_Vision\OCR_Pneus\IHM\obj\Debug\IHM.exe
+F:\Studies\TSE 3\Projet_Vision\OCR_Pneus\IHM\obj\Debug\IHM.pdb
+C:\Users\ehrhardt\Desktop\OCR_Pneus\IHM\bin\Debug\IHM.exe.config
+C:\Users\ehrhardt\Desktop\OCR_Pneus\IHM\bin\Debug\IHM.exe
+C:\Users\ehrhardt\Desktop\OCR_Pneus\IHM\bin\Debug\IHM.pdb
+C:\Users\ehrhardt\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.Form1.resources
+C:\Users\ehrhardt\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.Properties.Resources.resources
+C:\Users\ehrhardt\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache
+C:\Users\ehrhardt\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.exe
+C:\Users\ehrhardt\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.pdb
+C:\Users\ehrhardt\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.csprojResolveAssemblyReference.cache
+C:\Users\perotto\Desktop\OCR_Pneus\IHM\bin\Debug\IHM.exe.config
+C:\Users\perotto\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.exe
+C:\Users\perotto\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.pdb
+C:\Users\hugoc\Desktop\President de STMicro\IHM\bin\Debug\IHM.exe.config
+C:\Users\hugoc\Desktop\President de STMicro\IHM\bin\Debug\IHM.exe
+C:\Users\hugoc\Desktop\President de STMicro\IHM\bin\Debug\IHM.pdb
+C:\Users\hugoc\Desktop\President de STMicro\IHM\obj\Debug\IHM.csprojResolveAssemblyReference.cache
+C:\Users\hugoc\Desktop\President de STMicro\IHM\obj\Debug\IHM.Form1.resources
+C:\Users\hugoc\Desktop\President de STMicro\IHM\obj\Debug\IHM.Properties.Resources.resources
+C:\Users\hugoc\Desktop\President de STMicro\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache
+C:\Users\hugoc\Desktop\President de STMicro\IHM\obj\Debug\IHM.csproj.CoreCompileInputs.cache
+C:\Users\hugoc\Desktop\President de STMicro\IHM\obj\Debug\IHM.exe
+C:\Users\hugoc\Desktop\President de STMicro\IHM\obj\Debug\IHM.pdb
+C:\Users\ehrhardt\Desktop\OCRpneu_Vofficielle\IHM\bin\Debug\IHM.exe.config
+C:\Users\ehrhardt\Desktop\OCRpneu_Vofficielle\IHM\obj\Debug\IHM.exe
+C:\Users\ehrhardt\Desktop\OCRpneu_Vofficielle\IHM\obj\Debug\IHM.pdb
+C:\Users\ehrhardt\Desktop\OCRpneu_Vofficielle\IHM\bin\Debug\IHM.exe
+C:\Users\ehrhardt\Desktop\OCRpneu_Vofficielle\IHM\bin\Debug\IHM.pdb
+C:\Users\ehrhardt\Desktop\OCRpneu_Vofficielle\IHM\obj\Debug\IHM.csprojResolveAssemblyReference.cache
+C:\Users\ehrhardt\Desktop\OCRpneu_Vofficielle\IHM\obj\Debug\IHM.Form1.resources
+C:\Users\ehrhardt\Desktop\OCRpneu_Vofficielle\IHM\obj\Debug\IHM.Properties.Resources.resources
+C:\Users\ehrhardt\Desktop\OCRpneu_Vofficielle\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache
+C:\Users\hugoc\Desktop\OCR_Pneus\IHM\bin\Debug\IHM.exe.config
+C:\Users\hugoc\Desktop\OCR_Pneus\IHM\bin\Debug\IHM.exe
+C:\Users\hugoc\Desktop\OCR_Pneus\IHM\bin\Debug\IHM.pdb
+C:\Users\hugoc\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.Form1.resources
+C:\Users\hugoc\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.Properties.Resources.resources
+C:\Users\hugoc\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache
+C:\Users\hugoc\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.csproj.CoreCompileInputs.cache
+C:\Users\hugoc\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.exe
+C:\Users\hugoc\Desktop\OCR_Pneus\IHM\obj\Debug\IHM.pdb
+C:\Users\hugoc\Documents\000_Ecole\IPSI3\ProjetVision\OCR_Pneus\IHM\bin\Debug\IHM.exe.config
+C:\Users\hugoc\Documents\000_Ecole\IPSI3\ProjetVision\OCR_Pneus\IHM\obj\Debug\IHM.exe
+C:\Users\hugoc\Documents\000_Ecole\IPSI3\ProjetVision\OCR_Pneus\IHM\obj\Debug\IHM.pdb

@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Library.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Wrapper.cpp
+c:\users\hugoc\desktop\ocr_pneus\include\wrapper.h(88): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  LLD_OCR.cpp
+c:\users\hugoc\desktop\ocr_pneus\source\lld_ocr.cpp(140): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hugoc\desktop\ocr_pneus\source\lld_ocr.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\hugoc\desktop\ocr_pneus\source\lld_ocr.cpp(152): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hugoc\desktop\ocr_pneus\source\lld_ocr.cpp(226): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ImageNdg.cpp
+c:\users\hugoc\desktop\ocr_pneus\source\imagendg.cpp(567): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hugoc\desktop\ocr_pneus\source\imagendg.cpp(571): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ImageDouble.cpp
+  ImageCouleur.cpp
+  ImageClasse.cpp
+c:\users\hugoc\desktop\ocr_pneus\source\imageclasse.cpp(1168): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hugoc\desktop\ocr_pneus\source\imageclasse.cpp(1170): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hugoc\desktop\ocr_pneus\source\imageclasse.cpp(1178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hugoc\desktop\ocr_pneus\source\imageclasse.cpp(1180): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hugoc\desktop\ocr_pneus\source\imageclasse.cpp(1189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hugoc\desktop\ocr_pneus\source\imageclasse.cpp(1193): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hugoc\desktop\ocr_pneus\source\imageclasse.cpp(1216): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+     Creating library C:\Users\hugoc\Desktop\OCR_Pneus\\IHM\bin\Debug\LibraryImage.lib and object C:\Users\hugoc\Desktop\OCR_Pneus\\IHM\bin\Debug\LibraryImage.exp
+  Library.vcxproj -> C:\Users\hugoc\Desktop\OCR_Pneus\\IHM\bin\Debug\LibraryImage.dll
+  Library.vcxproj -> C:\Users\hugoc\Desktop\OCR_Pneus\\IHM\bin\Debug\LibraryImage.pdb (Full PDB)
